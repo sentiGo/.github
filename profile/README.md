@@ -16,7 +16,7 @@
 | Zalas Heribertus Kupumim | C037DSX1605 |   Cloud Computing  | <a href="https://www.linkedin.com/in/zalas-heribertus-27b439211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:harry.heribertusheri121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>         |
 
 ## User Interface
-![image](https://github.com/sentiGo/.github/assets/70699971/ace880ea-bc61-4bd9-8ef7-a0d99e51b4b8)
+![User Interface 5](https://github.com/sentiGo/.github/assets/70699971/96e662b4-c4b6-4417-b0de-ae18dd996c46)
 
 
 ## Installation
